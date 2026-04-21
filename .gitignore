@@ -1,0 +1,21 @@
+# Dataset CSVs (large files - don't commit)
+*.csv
+
+# Generated charts
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Build scripts (not needed in submission)
+create_notebook.py
+create_presentation.py
+
+# Executed notebook intermediate
+logistics_auditor_executed.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
