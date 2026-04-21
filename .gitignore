@@ -1,5 +1,4 @@
-# Dataset CSVs (large files - don't commit)
-*.csv
+# Dataset CSVs are included for Streamlit Cloud deployment
 
 # Generated charts
 *.png
