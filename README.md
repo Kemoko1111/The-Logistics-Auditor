@@ -11,9 +11,9 @@ Veridi Logistics' delivery data reveals that **~8% of orders are delivered late*
 
 ## B. Project Links
 
-- **Link to Notebook:** *(Paste link to `logistics_auditor.ipynb` on GitHub or Google Colab here)*
-- **Link to Dashboard:** *(Paste Streamlit Cloud URL here after deploying `dashboard.py`)*
-- **Link to Presentation:** *(Paste link to `Logistics_Auditor_Presentation.pptx` on Google Drive/OneDrive here)*
+- **Link to Notebook:** [logistics_auditor.ipynb on GitHub](https://github.com/Kemoko1111/The-Logistics-Auditor/blob/main/logistics_auditor.ipynb)
+- **Link to Dashboard:** [https://logistics-auditor.streamlit.app](https://logistics-auditor.streamlit.app/)
+- **Link to Presentation:** *(Upload `Logistics_Auditor_Presentation.pptx` to Google Drive and paste link here)*
 
 > **How to run the dashboard locally:**
 > ```bash
@@ -170,7 +170,7 @@ Please edit this `README.md` file in your forked repository to include the follo
 - [x] **My code uses Relative Paths.** 
 
 ### 2. Deliverable Checks
-- [ ] **My Dashboard link is publicly accessible.** (No login required).
+- [x] **My Dashboard link is publicly accessible.** (No login required).
 - [ ] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
 - [x] **I have updated this `README.md` file** with my Executive Summary and technical notes.
 
