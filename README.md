@@ -13,7 +13,7 @@ Veridi Logistics' delivery data reveals that **~8% of orders are delivered late*
 
 - **Link to Notebook:** [logistics_auditor.ipynb on GitHub](https://github.com/Kemoko1111/The-Logistics-Auditor/blob/main/logistics_auditor.ipynb)
 - **Link to Dashboard:** [https://logistics-auditor.streamlit.app](https://logistics-auditor.streamlit.app/)
-- **Link to Presentation:** *(Upload `Logistics_Auditor_Presentation.pptx` to Google Drive and paste link here)*
+- **Link to Presentation:** [Logistics_Auditor_Presentation on Google Drive](https://docs.google.com/presentation/d/1jB9LBVPcRFWKX33SCCeK2U-ImForl5VY/edit?usp=sharing&ouid=114393768506535582100&rtpof=true&sd=true)
 
 > **How to run the dashboard locally:**
 > ```bash
@@ -171,7 +171,7 @@ Please edit this `README.md` file in your forked repository to include the follo
 
 ### 2. Deliverable Checks
 - [x] **My Dashboard link is publicly accessible.** (No login required).
-- [ ] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
+- [x] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
 - [x] **I have updated this `README.md` file** with my Executive Summary and technical notes.
 
 ### 3. Completeness
